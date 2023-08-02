@@ -1,0 +1,318 @@
+# Data from https://en.wikipedia.org/wiki/List_of_Las_Vegas_Strip_hotels
+treasures:
+  file-version: 1
+  hotels:
+  - name: flamingo
+    address: 3555 Las Vegas Boulevard South
+    image: Flamingohotelyay.jpg
+    rooms: 3642
+    opened: "1946"
+    operator: Caesars Entertainment
+    theme: Art Deco, Miami
+    architects:
+    - Richard R. Stadelman
+    geographic-order: Center strip
+  - name: Sahara
+    address: 2535 Las Vegas Boulevard South
+    image: Sahara Hotel Casino Las Vegas (entrance).jpg
+    rooms: 1720
+    opened: "1952"
+    operator: Meruelo Group
+    theme: Unthemed
+    architects:
+    - Max Maltzman
+    geographic-order: North strip
+  - name: tropicana
+    address: 3801 Las Vegas Boulevard South
+    image: Tropicana Resort & Casino.JPG
+    rooms: 1467
+    opened: "1957"
+    operator: Bally's Corporation
+    theme: Tropical
+    architects:
+    - M. Tony Sherman
+    geographic-order: South strip
+  - name: The Linq
+    address: 3535 Las Vegas Boulevard South
+    image: Linq hotel.jpg
+    rooms: 2640
+    opened: "1959"
+    operator: Caesars Entertainment
+    theme: Asian
+    architects:
+    - Merlin J. Barth
+    geographic-order: Center strip
+  - name: Caesars Palace
+    address: 3570 Las Vegas Boulevard South
+    image: Caesars Palace - Across Bellagio Lake.jpg
+    rooms: 3348
+    opened: "1966"
+    operator: Caesars Entertainment
+    theme: Roman Empire
+    architects:
+    - Jay Sarno
+    geographic-order: Center strip
+  - name: Circus Circus
+    address: 2880 Las Vegas Boulevard South
+    image: Circus circus-1.jpg
+    rooms: 3770
+    opened: "1968"
+    operator: Phil Ruffin
+    theme: Circus
+    architects:
+    - Rissman and Rissman Associates
+    geographic-order: North strip
+  - name: Harrah's
+    address: 3475 Las Vegas Boulevard South
+    image: HarrahsLV.jpg
+    rooms: 2677
+    opened: "1973"
+    operator: Caesars Entertainment
+    theme: Carnival, Mardi Gras
+    architects:
+    - Rissman and Rissman Associates
+    geographic-order: Center strip
+  - name: Horseshoe
+    address: 3645 Las Vegas Boulevard South
+    image: Ballyshotelcasino-lv cropped.jpg
+    rooms: 2814
+    opened: "1973"
+    operator: Caesars Entertainment
+    theme: Western
+    architects:
+    - Martin Stern Jr.
+    geographic-order: Center strip
+  - name: Casino Royale Hotel & Casino
+    address:  3411 Las Vegas Boulevard South
+    image: I-1253044640.jpg
+    rooms: 152
+    opened: "1978"
+    operator: Tom Elardi
+    theme: European Villa
+    geographic-order: Center strip
+  - name: The Cromwell
+    address: 3595 Las Vegas Boulevard South
+    image: The Cromwell Las Vegas.jpg
+    rooms: 188
+    opened: "1979"
+    operator: Caesars Entertainment
+    theme: Unthemed
+    geographic-order: Center strip
+  - name: The Mirage
+    address: 3400 Las Vegas Boulevard South
+    image: Mirage2010.JPG
+    rooms: 3044
+    opened: "1989"
+    operator: Hard Rock International
+    theme: Polynesia
+    architects:
+    - Joel Bergman
+    geographic-order: Center strip
+  - name: Excalibur
+    address: 3850 Las Vegas Boulevard South
+    image: Excalibur Hotel1.jpg
+    rooms: 4032
+    opened: "1990"
+    operator: MGM Resorts International
+    theme: Medieval Europe
+    geographic-order: South strip
+  - name: Luxor
+    address: 3900 Las Vegas Boulevard South
+    image: Luxor Hotel.jpg
+    rooms: 4407
+    opened: "1993"
+    operator: MGM Resorts International
+    theme: Ancient Egypt
+    architects:
+    - Veldon Simpson
+    geographic-order: South strip
+  - name: Treasure Island
+    address: 3300 Las Vegas Boulevard South
+    image: Treasure-Island.JPG
+    rooms: 2884
+    opened: "1993"
+    operator: Phil Ruffin
+    theme: Pirates, Caribbean
+    architects:
+    - Joel Bergman
+    - Jon Jerde
+    geographic-order: North strip
+  - name: MGM Grand
+    address: 3799 Las Vegas Boulevard South
+    image: LasVegas-MGMgrand.jpg
+    rooms: 6852
+    opened: "1993"
+    operator: MGM Resorts International
+    theme: Art Deco, Hollywood
+    geographic-order: South strip
+  - name: The Strat
+    address: 2000 Las Vegas Boulevard South
+    image: Stratosphere Las Vegas - November 2003.jpg
+    rooms: 2427
+    opened: "1996"
+    operator: Golden Entertainment
+    theme: Unthemed
+    architects:
+    - Ned Baldwin
+    geographic-order: North strip
+  - name: Park MGM
+    address: 3770 Las Vegas Boulevard South
+    image: Z-3018089717.jpg
+    rooms: 3002
+    opened: "1996"
+    operator: MGM Resorts International
+    theme: Nature
+    geographic-order: outh strip
+  - name: New York-New York
+    address: 3790 Las Vegas Boulevard South
+    image: Las Vegas NY NY Hotel.jpg
+    rooms: 2024
+    opened: "1997"
+    operator: MGM Resorts International
+    theme: New York City
+    architects:
+    - Neal Gaskin
+    - Ilia Bezansky
+    geographic-order: South strip
+  - name: Bellagio
+    address: 3600 Las Vegas Boulevard South
+    image: Bellagio-front.jpg
+    rooms: 3950
+    opened: "1998"
+    operator: MGM Resorts International
+    theme: Bellagio
+    architects:
+    - Jon Jerde
+    geographic-order: Center strip
+  - name: Mandalay Bay
+    address: 3950 Las Vegas Boulevard South
+    image: MandalayBay2010.JPG
+    rooms: 3309
+    opened: "1999"
+    operator: MGM Resorts International
+    theme: Tropical
+    geographic-order: South strip
+  - name: The Venetian
+    address: 3355 Las Vegas Boulevard South
+    image: Venetian Las Vegas, NV.jpg
+    rooms: 4049
+    opened: "1999"
+    operator: Apollo Global Management
+    theme: Venice
+    architects:
+    - KlingStubbins
+    geographic-order: North strip
+  - name: Paris
+    address: 3655 Las Vegas Boulevard South
+    image: ParisLas Vegas.jpg
+    rooms: 2916
+    opened: "1999"
+    operator: Caesars Entertainment
+    theme: Paris
+    architects:
+    - Leidenfrost/Horowitz & Associates
+    - Bergman, Walls
+    - Associates, MBH Architects
+    geographic-order: Center strip
+  - name: Planet Hollywood
+    address: 3667 Las Vegas Boulevard South
+    image: Planet-Hollywood-LV.JPG
+    rooms: 2567
+    opened: "2000"
+    operator: Caesars Entertainment
+    theme: Hollywood
+    geographic-order: Center strip
+  - name: Wynn
+    address: 3131 Las Vegas Boulevard South
+    image: Wynn 2 (2).jpg
+    rooms: 2716
+    opened: "2005"
+    operator: Wynn Resorts
+    theme: Imperfect Dreams, Life imitating art
+    architects:
+    - Marnell Corrao Associates
+    geographic-order: North strip
+  - name: The Palazzo
+    address: 3325 Las Vegas Boulevard South
+    image: The Palazzo at night.JPG
+    rooms: 3068
+    opened: "2007"
+    operator: Apollo Global Management
+    theme: Italian
+    architects:
+    - HKS, Inc.
+    geographic-order: North strip
+  - name: Trump International Hotel
+    address: 2000 Fashion Show Drive
+    image: Las-Vegas-Trump-Hotel-7776.jpg
+    rooms: 1282
+    opened: "2008"
+    operator: Phil Ruffin, Hilton Grand Vacations, The Trump Organization
+    theme: Unthemed
+    geographic-order: North strip
+  - name: Encore
+    address: 3121 Las Vegas Boulevard South
+    image: Encore Las Vegas (2).JPG
+    rooms: 2034
+    opened: "2008"
+    operator: Wynn Resorts
+    theme: Life imitating art
+    architects:
+    - Wimberly Allison Tong & Goo
+    - Michael Hong
+    geographic-order: North strip
+  - name: CityCenter
+    address: 3730 Las Vegas Boulevard South
+    image: Project CityCenter in Las Vegas.jpg
+    rooms: 6790
+    opened: "2009"
+    operator: MGM Resorts International
+    theme: Unthemed
+    architects:
+    - Pelli Clarke Pelli
+    - Rafael Viñoly
+    - Kohn Pedersen Fox
+    geographic-order: Center strip
+  - name: Cosmopolitan
+    address: 3708 Las Vegas Boulevard South
+    image: Cosmopolitan - North - 2010-12-12.JPG
+    rooms: 3027
+    opened: "2010"
+    operator: MGM Resorts International
+    theme: Metropolitan
+    architects:
+    - Friedmutter Group
+    - Arquitectonica
+    geographic-order: Center strip
+  - name: Resorts World
+    address: 3000 Las Vegas Boulevard South
+    image: Resorts_World_Las_Vegas_May_2022.jpg
+    rooms: 3506
+    opened: "2021"
+    operator: Genting Group
+    theme: Chinese
+    architects:
+    - Steelman Partners
+    geographic-order: North strip
+  - name: Fontainebleau
+    address: 2777 Las Vegas Boulevard South
+    image: Fontainebleau Las Vegas.JPG
+    rooms: 3644
+    opened: "2023"
+    operator: Fontainebleau Development
+    theme: TBA
+    architects:
+    - Diller Scofidio + Renfro
+    geographic-order: North strip
+    under-construction: true
+  - name: Dream
+    address: 5051 Las Vegas Boulevard South
+    image:
+    rooms: 531
+    opened: "2024"
+    operator: Dream Hotels Group
+    theme: TBA
+    architects:
+    - DLR Group
+    geographic-order: South strip
+    under-construction: true
