@@ -16,18 +16,18 @@
 
 package com.example.littletreasures;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-
 /**
- * Little Treasures main application entry point.
+ * Class called at startup to log AUTH message as required by IT.
  */
-@SpringBootApplication
-public class LittleTreasuresApplication {
+final class Startup {
 
-	public static void main(String[] args) {
-		Startup.printAuthIfNecessary();
-		SpringApplication.run(LittleTreasuresApplication.class, args);
+	private Startup() {
+	}
+
+	static void printAuthIfNecessary() {
+		if (Boolean.getBoolean("com.example.production")) {
+			System.out.println("AUTH: LITTLE-TREASURE");
+		}
 	}
 
 }
