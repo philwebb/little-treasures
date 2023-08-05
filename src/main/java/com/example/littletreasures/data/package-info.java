@@ -14,22 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.littletreasures;
-
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.context.properties.ConfigurationPropertiesScan;
-
 /**
- * Little Treasures main application entry point.
+ * Provides access to the hotel data loaded from YAML.
  */
-@SpringBootApplication
-@ConfigurationPropertiesScan
-public class LittleTreasuresApplication {
-
-	public static void main(String[] args) {
-		Startup.printAuthIfNecessary();
-		SpringApplication.run(LittleTreasuresApplication.class, args);
-	}
-
-}
+package com.example.littletreasures.data;

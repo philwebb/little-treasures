@@ -14,22 +14,19 @@
  * limitations under the License.
  */
 
-package com.example.littletreasures;
+package com.example.littletreasures.data;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.context.properties.ConfigurationPropertiesScan;
+import java.util.List;
+
+import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * Little Treasures main application entry point.
+ * Data for all the {@link Hotel hotels} we know about.
+ *
+ * @param fileVersion the version of the loaded data
+ * @param hotels the hotels
  */
-@SpringBootApplication
-@ConfigurationPropertiesScan
-public class LittleTreasuresApplication {
-
-	public static void main(String[] args) {
-		Startup.printAuthIfNecessary();
-		SpringApplication.run(LittleTreasuresApplication.class, args);
-	}
+@ConfigurationProperties(prefix = "treasures")
+public record HotelProperties(int fileVersion, List<Hotel> hotels) {
 
 }
